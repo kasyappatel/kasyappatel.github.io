@@ -1,40 +1,6 @@
-
-# h3 {
-  font-size: 40px;
-}
 body {
-  background-color: blue;
-  border-style: solid;
+  "background-color: blue";
 }
-address {
-  border-style: solid;
-  text-align: center;
-  background-color: Green;
+a {
+  "color: #f0f0f0"; 
 }
-h2 {
-  border-style: solid;
-  text-align: center;
-  background-color: Green;
-}
-dl {
-  border-style: solid;
-  background-color: Green;
-  text-align: center;
-}
-dt {
-  border-style: solid;
-}
-li {
-  text-align: center;
-  background-color: Green;
-  border-style: solid;
-}
-p {
-  border-style: solid;
-  background-color: Green;
-}
-h4 {
-  border-style: solid;
-  background-color: Green;
-}
-  
