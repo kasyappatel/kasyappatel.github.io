@@ -1,5 +1,7 @@
 
 body {
-  background-color: blue;
-  border-style: solid;
+  "background-color: blue";
+}
+a {
+  "color: #f0f0f0"; 
 }
